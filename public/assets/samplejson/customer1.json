@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"name": "John Doe",
+	"email": "jdoe@test.com",
+	"phone": "7646987543",
+	"city": "Auckland",
+	"state": "Auckland",
+	"country": "New Zealand",
+	"organization": "Microsoft",
+	"jobProfile": "Data Analytics",
+	"additionalInfo": "Good Customer"
+}
