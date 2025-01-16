@@ -1,0 +1,12 @@
+{
+	"id": 2,
+	"name": "Lisa Jones",
+	"email": "aLjones@test.com",
+	"phone": "7823467854",
+	"city": "Hamilton",
+	"state": "Hamilton",
+	"country": "New Zealand",
+	"organization": "Google",
+	"jobProfile": "Web designer",
+	"additionalInfo": "Buys Products Rarely"
+}
