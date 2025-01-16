@@ -1,0 +1,12 @@
+{
+	"id": 3,
+	"name": "Mack Smith",
+	"email": "Msmith@test.com",
+	"phone": "25673458",
+	"city": "Auckland",
+	"state": "Auckland",
+	"country": "NZ",
+	"organization": "Company 3",
+	"jobProfile": "Web developer",
+	"additionalInfo": "Buys Lots of Products."
+}
